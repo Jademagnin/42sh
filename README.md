@@ -3,6 +3,7 @@
 ## Description
 42sh is a shell based on tcsh.
 This is part of the module Shell Programming.
+This project was carried out with @ZKAW @mezzlmc and @louislafosse
 
 ## Disclaimer
 Never copy paste a repo, this will result in a -42.
